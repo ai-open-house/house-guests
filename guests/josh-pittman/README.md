@@ -1,5 +1,7 @@
 # Josh Pittman
 
+> This is your page. Click the pencil (Edit) up top to change it, or use the Edit button on your profile at aiopenhouse.co/guests/josh-pittman/. Add your video, repos, and links below.
+
 Pip
 
 **Session 001 · attended**

@@ -1,5 +1,7 @@
 # Taylor Thomas
 
+> This is your page. Click the pencil (Edit) up top to change it, or use the Edit button on your profile at aiopenhouse.co/guests/taylor-thomas/. Add your video, repos, and links below.
+
 Sales Shark
 
 **Session 001 · presented**
