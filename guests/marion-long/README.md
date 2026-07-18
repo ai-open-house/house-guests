@@ -17,6 +17,6 @@ A personal command center that captures every meeting, indexes transcripts, sani
 - **Cost to run:** Ask Marion
 - **What they share:** Starter brain repository + onboarding instructions
 
-## Leave-behind
+## Yours to keep
 
 Starter brain repo + onboarding instructions (promised at Session 001, lands here)

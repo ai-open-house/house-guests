@@ -17,6 +17,6 @@ Real-time call coaching plus a GTM targeting engine that scores ~8,000 industry 
 - **Cost to run:** Ask Taylor (moved off Claude after scoring 100 verticals ate 27% of a weekly quota)
 - **What they share:** Markdown of every data source + API behind the vertical/event discovery pipeline
 
-## Leave-behind
+## Yours to keep
 
 Data-sources + APIs markdown (promised at Session 001, lands here)

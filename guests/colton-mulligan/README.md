@@ -17,6 +17,6 @@ Host. Runs the room, the site, and this directory. Promised the group his multi-
 - **Cost to run:** $0 to run (local server, free Google Cloud project)
 - **What they share:** Step-by-step setup recipe: multi-gmail-setup.md
 
-## Leave-behind
+## Yours to keep
 
 https://github.com/ai-open-house/house-guests/blob/main/guests/colton-mulligan/multi-gmail-setup.md

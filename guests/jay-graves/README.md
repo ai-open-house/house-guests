@@ -17,6 +17,6 @@ BOSS (Blueprint OS): kills manual handoffs across CRM and content ops for a loca
 - **Cost to run:** Ask Jay
 - **What they share:** TBD: carousel-generator recipe is the one the room wants
 
-## Leave-behind
+## Yours to keep
 
 TBD (the room voted with its questions: the carousel generator)

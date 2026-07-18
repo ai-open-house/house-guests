@@ -17,6 +17,6 @@ Two demos: a strategic-intelligence platform that crawls state policy (Firecrawl
 - **Cost to run:** Ask Marty
 - **What they share:** TBD: skill-recorder walkthrough requested
 
-## Leave-behind
+## Yours to keep
 
 TBD (skill-recorder walkthrough requested)
