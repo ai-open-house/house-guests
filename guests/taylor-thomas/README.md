@@ -1,22 +1,22 @@
 # Taylor Thomas
 
-> This is your page. Click the pencil (Edit) up top to change it, or use the Edit button on your profile at aiopenhouse.co/guests/taylor-thomas/. Add your video, repos, and links below.
+> This is your page. Click the pencil (Edit) up top to change it, or use the Edit button on your profile at aiopenhouse.co/guests/taylor-thomas/. Add your video, repos, and links below. Any line that reads "Pending approval of past house guest" is waiting on you.
 
 Sales Shark
 
-**Session 001 · presented**
+**Session 001 (presented)**
 
-Real-time call coaching plus a GTM targeting engine that scores ~8,000 industry verticals nightly against a custom rubric and surfaces events, podcasts, and micro-influencer sponsorships worth chasing.
+Real-time call coaching plus a go-to-market targeting engine that scores about 8,000 industry verticals nightly against a custom rubric and surfaces the events, podcasts, and micro-influencer sponsorships worth chasing.
 
 ## Stack card
 
 - **What it does:** Scores every industry vertical nightly to tell a sales team exactly where to aim
-- **Models / AI:** Claude, then repartitioned to OpenRouter + DeepSeek for high-throughput stages; SERPR for search aggregation
+- **Models / AI:** Claude, then repartitioned to OpenRouter and DeepSeek for the high-throughput stages; SERPR for search aggregation
 - **Stack:** Multi-model pipeline, nightly cron scoring, custom fit rubric
-- **Storage / source:** Private (data-sources markdown promised to the group)
-- **Cost to run:** Ask Taylor (moved off Claude after scoring 100 verticals ate 27% of a weekly quota)
-- **What they share:** Markdown of every data source + API behind the vertical/event discovery pipeline
+- **Storage / source:** Pending approval of past house guest
+- **Cost to run:** Pending approval of past house guest
+- **What they share:** Markdown of every data source and API behind the vertical and event discovery pipeline (promised at Session 001)
 
 ## Yours to keep
 
-Data-sources + APIs markdown (promised at Session 001, lands here)
+Pending approval of past house guest. Promised at Session 001: the data-sources and APIs markdown. It lands here the moment Taylor approves it.
